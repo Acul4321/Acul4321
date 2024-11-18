@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=acul4321)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Acul4321&center=true&theme=onedark-duo&hide_border=true&card_width=700)]
 
 [![Acul4321's atcoder stats](https://atcoder-readme-stats.vercel.app/stats/Acul4321?theme=darcula&show_icons=true&width=450)](https://atcoder.jp/users/Acul4321)
