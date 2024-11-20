@@ -7,10 +7,10 @@
 [![Acul4321's atcoder stats](https://atcoder-readme-stats.vercel.app/stats/Acul4321?theme=default&show_icons=true&width=450)](https://atcoder.jp/users/Acul4321)
 
 <p allign="center">
-  <a>
+  <a href="https://github.com/Acul4321/portfolio-website">
     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Acul4321&theme=transparent&show_icons=true)
   </a>
-  <a>
+  <a href="https://github.com/Acul4321/portfolio-website">
     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Acul4321&theme=transparent&layout=compact)
   </a>
 </p>
