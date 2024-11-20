@@ -15,10 +15,10 @@
 
 <p align="center">
   <a href="https://github.com/Acul4321/portfolio-website">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Acul4321&theme=transparent&show_icons=true">
+    <img height="190px" src="https://github-readme-stats.vercel.app/api?username=Acul4321&theme=transparent&show_icons=true">
   </a>
   <a href="https://github.com/Acul4321/portfolio-website">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acul4321&theme=transparent&layout=compact">
+    <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acul4321&theme=transparent&layout=compact">
   </a>
 </p>
 
