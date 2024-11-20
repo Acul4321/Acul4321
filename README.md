@@ -8,10 +8,10 @@
 
 <p allign="center">
   <a href="https://github.com/Acul4321/portfolio-website">
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Acul4321&theme=transparent&show_icons=true)
+    <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Acul4321&theme=transparent&show_icons=true">
   </a>
   <a href="https://github.com/Acul4321/portfolio-website">
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Acul4321&theme=transparent&layout=compact)
+    <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acul4321&theme=transparent&layout=compact">
   </a>
 </p>
 
