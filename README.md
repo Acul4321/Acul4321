@@ -27,7 +27,7 @@
   <ul>
     <li>I am a half Japanese and Scottish student at the Unviersity of Glasgow studying Computing Science.</li>
     <li>My passions are; Competitve Programming, Game and Web Development and all things Tea.</li>
-    <li>I am fluent in English and Japanese, currently looking for internships and opportunities.</li>
+    <li>I can speak in both English and Japanese, currently looking for internships and opportunities.</li>
   </ul>
 </div>
 
