@@ -33,4 +33,4 @@
 
 <br>
 
-[![Acul4321's atcoder stats](https://atcoder-readme-stats.vercel.app/stats/Acul4321?theme=default&show_icons=true&width=450)](https://atcoder.jp/users/Acul4321)
+[![Acul4321's atcoder stats](https://cp-readme-stats.deno.dev/atcoder/stats/acul4321?theme=transparent)](https://atcoder.jp/users/Acul4321)
