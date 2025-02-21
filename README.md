@@ -39,6 +39,3 @@
 </p>
 
 <br>
-
-[![Acul4321's atcoder stats](https://cp-readme-stats.deno.dev/atcoder/stats/acul4321?theme=transparent)](https://atcoder.jp/users/Acul4321) 
-[![Acul4321's atcoder stats](https://cp-readme-stats.deno.dev/atcoder/heatmap/acul4321?theme=dracula)](https://atcoder.jp/users/Acul4321)
