@@ -5,7 +5,7 @@ on:
   # Run workflow manually
   workflow_dispatch:
 jobs:
-  github-metrics:
+  leetcode-metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -17,6 +17,5 @@ jobs:
           token: NOT_NEEDED
           base: ""
           plugin_leetcode: yes
-          plugin_leetcode_sections: solved, skills, recent
+          plugin_leetcode_sections: solved
           plugin_leetcode_user: acul4321
-          plugin_leetcode_ignored_skills: fundamental
