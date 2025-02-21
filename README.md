@@ -42,9 +42,9 @@
 
 <p align="center">
   <a href="https://atcoder.jp/users/Acul4321">
-    <img height="140px"src="https://cp-readme-stats.deno.dev/atcoder/stats/benjamin_taro?theme=transparent">
+    <img height="135px"src="https://cp-readme-stats.deno.dev/atcoder/stats/benjamin_taro?theme=transparent">
   </a>
   <a href=https://atcoder.jp/users/Acul4321">
-    <img height="140px"src="https://cp-readme-stats.deno.dev/atcoder/heatmap/acul4321?theme=transparent">
+    <img height="135px"src="https://cp-readme-stats.deno.dev/atcoder/heatmap/acul4321?theme=transparent">
   </a>
 </p>
