@@ -33,5 +33,11 @@
 
 <br>
 
+<a href="https://leetcode.com/user1771A">
+  <img src="./metrics/metrics.plugin.leetcode.svg" alt="stats" align="middle" />
+</a>
+
+<br>
+
 [![Acul4321's atcoder stats](https://cp-readme-stats.deno.dev/atcoder/stats/acul4321?theme=transparent)](https://atcoder.jp/users/Acul4321)
 [![Acul4321's atcoder stats](https://cp-readme-stats.deno.dev/atcoder/heatmap/acul4321?theme=dracula)](https://atcoder.jp/users/Acul4321)
