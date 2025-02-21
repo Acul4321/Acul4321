@@ -32,10 +32,11 @@
 </div>
 
 <br>
-
-<a href="https://leetcode.com/acul4321">
-  <img src="./metrics/metrics.plugin.leetcode.svg" alt="stats" align="middle" />
-</a>
+<p align-"center">
+  <a href="https://leetcode.com/acul4321">
+    <img width="800" src="./metrics/metrics.plugin.leetcode.svg" alt="leetcode-stats">
+  </a>
+</p>
 
 <br>
 
