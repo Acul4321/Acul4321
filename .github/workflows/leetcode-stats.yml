@@ -1,19 +1,22 @@
 name: LeetCode
 on:
-  push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
+  # Schedule daily updates at 12.am
+  schedule: [{cron: "0 0 * * *"}]
+  # Run workflow manually
+  workflow_dispatch:
 jobs:
-  leetcode-stats:
+  github-metrics:
     runs-on: ubuntu-latest
-
+    permissions:
+      contents: write
     steps:
       - name: LeetCode
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.leetcode.svg
+          filename: metrics/metrics.plugin.leetcode.svg
           token: NOT_NEEDED
           base: ""
           plugin_leetcode: yes
           plugin_leetcode_sections: solved, skills, recent
+          plugin_leetcode_user: acul4321
+          plugin_leetcode_ignored_skills: fundamental
