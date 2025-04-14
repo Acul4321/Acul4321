@@ -18,4 +18,4 @@ jobs:
           base: ""
           plugin_leetcode: yes
           plugin_leetcode_sections: solved
-          plugin_leetcode_user: acul4321
+          plugin_leetcode_user: Acul4321
