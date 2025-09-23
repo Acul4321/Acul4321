@@ -3,6 +3,9 @@
   <a>
     <img src="https://komarev.com/ghpvc/?username=acul4321" alt="Profile Views">
   </a>
+  <a>
+    [![Download Resume](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download Resume")](https://github.com/Acul4321/Acul4321/main/Luca_Rogers_Resume.pdf)
+  </a>
 </h1>
 
 
